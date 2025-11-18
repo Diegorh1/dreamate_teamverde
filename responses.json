@@ -1,0 +1,99 @@
+{
+  "greetings": [
+    "¡Hola! Soy Dreamate. ¿Estás listo para hablar de tu descanso?",
+    "¡Buenas! ¿Cómo dormiste anoche?",
+    "¡Hola! ¿Contando ovejas o durmiendo profundo?",
+    "Hola, ¿qué tal tu energía hoy? Hablemos de cómo mejorarla.",
+    "¡Buenas noches! O... ¿buenos días? Sea como sea, hablemos de sueño."
+  ],
+  "farewell": [
+    "¡Entendido! Que tengas un día lleno de energía y un buen descanso esta noche.",
+    "¡Que descanses bien! Hablamos mañana.",
+    "Dulces sueños. ¡Hasta la próxima!",
+    "¡Adiós! Y recuerda, dormir bien no es un lujo, es una necesidad."
+  ],
+  "default": [
+    "No entendí eso. Pregúntame por 'consejos', 'melatonina', 'REM' o dime 'dormí 8 horas'.",
+    "Soy Dreamate, tu asistente de sueño. ¿Cómo te puedo ayudar con tu descanso?",
+    "Hmm. Intenta decirme 'hola' o '¿qué es el ritmo circadiano?'",
+    "Mi conocimiento es sobre el sueño. Intenta preguntarme '¿por qué me despierto cansado?'"
+  ],
+  "sleep_hygiene_tips": [
+    "Consejo: Evita las pantallas (móvil, TV) al menos 30-60 minutos antes de acostarte. La luz azul es el enemigo #1 de la melatonina.",
+    "Consejo: Mantén un horario fijo. Acuéstate y levántate a la misma hora *todos los días*, incluso los fines de semana. La consistencia es clave.",
+    "Consejo: Tu habitación debe ser un 'santuario de sueño'. Mantenla fresca (unos 18°C es ideal), oscura y silenciosa.",
+    "Consejo: Evita comidas pesadas o picantes al menos 2-3 horas antes de dormir. La acidez y la digestión pueden arruinar tu descanso.",
+    "Consejo: ¿No puedes dormirte? Si llevas 20 minutos en la cama, levántate. Ve a otra habitación, lee un libro (con luz tenue, ¡no el móvil!) y regresa solo cuando tengas sueño.",
+    "Conseja: La cafeína es un estimulante potente. Intenta no consumir café, té negro o refrescos después de las 2 p.m.",
+    "Consejo: El alcohol te puede ayudar a dormirte rápido, pero destruye la calidad de tu sueño en la segunda mitad de la noche, especialmente el sueño REM.",
+    "Consejo: Haz ejercicio durante el día. ¡Es fantástico para el sueño! Solo evita el ejercicio *muy* intenso justo antes de acostarte.",
+    "Consejo: Usa tu cama solo para dos cosas: dormir y tener relaciones. No trabajes, no comas y no veas TV en la cama.",
+    "Consejo: Si te despiertas mucho a orinar, intenta reducir tu ingesta de líquidos 1-2 horas antes de dormir."
+  ],
+  "hours_feedback": {
+    "extreme_low": "¡Solo {horas} horas! Eso es peligrosamente poco. Por favor, prioriza tu descanso. Tu salud está en juego.",
+    "low": "¡Uy! {horas} horas es muy poco. Un adulto promedio necesita entre 7 y 9 horas. ¿Qué impidió que durmieras más?",
+    "medium": "{horas} horas. No está mal, pero estás en el límite inferior. Intenta sumar 30-60 minutos más y verás la diferencia.",
+    "good": "¡Excelente! {horas} horas es el 'punto dulce' del descanso para la mayoría de los adultos. ¡Deberías sentirte genial hoy!",
+    "high": "{horas} horas es bastante. ¿Te sientes descansado o quizás un poco lento (groggy)? A veces dormir demasiado también nos afecta.",
+    "extreme_high": "{horas} horas es muchísimo. Si fue solo una noche para reponerte, está bien. Si te pasa a menudo, podría ser una señal de que algo más está pasando."
+  },
+  "topics": {
+    "caffeine": [
+      "La cafeína puede afectar tu sueño hasta 6-8 horas después de tomarla. Intenta no tomar café o refrescos de cola después de las 2 p.m.",
+      "La cafeína bloquea los receptores de adenosina en tu cerebro. La adenosina es lo que te hace sentir somnoliento, así que la cafeína te 'engaña' para que te sientas despierto."
+    ],
+    "exercise": [
+      "Hacer ejercicio regularmente es una de las mejores cosas que puedes hacer por tu sueño. ¡Incluso una caminata de 30 minutos ayuda!",
+      "Intenta no hacer ejercicio muy intenso (como pesas o HIIT) 1-2 horas antes de acostarte. Puede elevar demasiado tu ritmo cardíaco. El yoga o estiramientos sí están bien."
+    ],
+    "naps": [
+      "¡Las siestas pueden ser geniales! El truco es que sean cortas (20-30 minutos). Esto se llama 'power nap' y te recarga sin afectar tu sueño nocturno.",
+      "Evita las siestas largas (más de 40 minutos) o tomarlas muy tarde (después de las 4 p.m.), o te costará mucho dormirte por la noche."
+    ],
+    "melatonin": [
+      "La melatonina es la 'hormona de la oscuridad'. Tu cerebro la produce cuando oscurece para indicarle a tu cuerpo que es hora de dormir.",
+      "Los suplementos de melatonina pueden ayudar, pero no son una cura mágica. La mejor forma de producirla naturalmente es exponiéndote a la luz del sol por la mañana y evitando la luz azul por la noche.",
+      "La luz de las pantallas (móvil, TV) es el principal enemigo de la melatonina. Frena su producción y le dice a tu cerebro que 'aún es de día'."
+    ],
+    "rem": [
+      "El sueño REM (Rapid Eye Movement) es la fase donde sueñas más vívidamente. Es crucial para tu memoria, aprendizaje y regulación emocional.",
+      "El alcohol es un gran destructor del sueño REM. Por eso, aunque duermas 8 horas después de beber, te despiertas sintiéndote mentalmente agotado.",
+      "Pasas por varios ciclos REM cada noche. La mayor parte del REM ocurre en la segunda mitad de la noche, por eso es tan importante dormir las horas completas."
+    ],
+    "sleep_cycles": [
+      "Tu sueño no es plano. Pasas por 'ciclos de sueño' de unos 90 minutos. Cada ciclo tiene fases: sueño ligero, sueño profundo y sueño REM.",
+      "El sueño profundo es el que te repara físicamente (músculos, huesos). El sueño REM es el que te repara mentalmente (memoria, emociones).",
+      "La meta es completar 4 o 5 de estos ciclos de 90 minutos cada noche. Por eso 7.5 horas (5 ciclos) o 9 horas (6 ciclos) suelen ser puntos mágicos."
+    ],
+    "circadian_rhythm": [
+      "Tu 'Ritmo Circadiano' es tu reloj biológico interno de 24 horas. Controla cuándo te sientes despierto y cuándo te sientes cansado.",
+      "Este reloj se regula principalmente con la luz del sol. Ver la luz solar por la mañana (¡sin gafas de sol!) le dice a tu reloj: '¡Es de día, despierta!'.",
+      "Mantener un horario fijo (acostarte y levantarte a la misma hora) es la mejor forma de mantener tu ritmo circadiano feliz y saludable."
+    ],
+    "insomnia": [
+      "El insomnio (no poder dormir, o despertarse a media noche) es horrible. Generalmente es un síntoma de estrés, ansiedad o malos hábitos de sueño.",
+      "Si no puedes dormir, ¡no te quedes en la cama dando vueltas! Eso crea ansiedad. Levántate 20 minutos, lee un libro aburrido (con luz tenue) y regresa a la cama.",
+      "La clave para vencer el insomnio suele ser mejorar tu 'higiene del sueño'. ¿Te gustaría que te diera 'consejos' sobre eso?"
+    ],
+    "waking_up_tired": [
+      "¿Duermes tus 8 horas pero despiertas cansado? Puede ser por varias razones. La más común es la 'inercia del sueño', que es normal y dura unos 30 minutos.",
+      "Si dura más, puede ser que tu *calidad* de sueño sea mala. El alcohol, la cafeína tarde, o el estrés pueden fragmentar tu sueño sin que te des cuenta.",
+      "Otra causa común es la 'apnea del sueño' (dejar de respirar por segundos). Si roncas mucho, te despiertas con dolor de cabeza o sin aliento, consulta a un médico."
+    ],
+    "sleep_paralysis": [
+      "La 'parálisis del sueño' es aterradora pero inofensiva. Ocurre cuando tu cerebro se 'despierta' pero tu cuerpo sigue en modo REM (donde los músculos están 'apagados' para que no actúes tus sueños).",
+      "Es temporal y suele durar de segundos a un par de minutos. Es más común si tienes estrés, horarios de sueño irregulares o duermes boca arriba."
+    ],
+    "snoring": [
+      "Roncar es causado por la vibración de los tejidos de la garganta. Puede ser inofensivo (si es leve) o una señal de algo más serio.",
+      "Si tus ronquidos son muy fuertes y vienen acompañados de pausas al respirar o jadeos, podría ser 'Apnea del Sueño'. Es importante que lo revise un médico.",
+      "Dormir de lado (en lugar de boca arriba) y evitar el alcohol antes de dormir puede reducir mucho los ronquidos."
+    ],
+    "blue_light": [
+      "La luz azul de las pantallas (móvil, tablet, PC, TV) es tu peor enemigo por la noche. Tiene la misma longitud de onda que la luz del mediodía.",
+      "Esta luz engaña a tu cerebro, haciéndole creer que es de día, y frena por completo la producción de Melatonina (la hormona del sueño).",
+      "Intenta usar 'modo nocturno' (filtro de luz cálida) en tus dispositivos, o mejor aún, déjalos 30-60 minutos antes de dormir."
+    ]
+  }
+}
